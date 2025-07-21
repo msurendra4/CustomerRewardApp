@@ -33,7 +33,7 @@ This application:
 ### **1. Clone the Repository**
 
 ```sh
-git clone https://github.com/Avineshrv/code-evaluation.git
+git clone https://github.com/msurendra4/CustomerRewardApp.git
 cd code-evaluation
 ```
 
