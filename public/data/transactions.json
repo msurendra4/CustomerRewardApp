@@ -1,0 +1,177 @@
+[
+  {
+    "customerId": 1,
+    "customerName": "Surendra",
+    "transactionId": 1,
+    "amount": 720.8,
+    "date": "2025-11-17" 
+  },
+  {
+    "customerId": 1,
+    "customerName": "Surendra",
+    "transactionId": 4,
+    "amount": 720.1,
+    "date": "2025-11-25"
+  },
+  {
+    "customerId": 1,
+    "customerName": "Surendra",
+    "transactionId": 2,
+    "amount": 85.0,
+    "date": "2025-02-12"
+  },
+  {
+    "customerId": 2,
+    "customerName": "Rajesh",
+    "transactionId": 3,
+    "amount": 35.0,
+    "date": "2024-03-15"
+  },
+  {
+    "customerId": 3,
+    "customerName": "Adhya",
+    "transactionId": 4,
+    "amount": 208.0,
+    "date": "2025-05-15"
+  },
+  {
+    "customerId": 4,
+    "customerName": "Rajesh",
+    "transactionId": 5,
+    "amount": 852.0,
+    "date": "2025-08-22"
+  },
+  {
+    "customerId": 5,
+    "customerName": "Raj Kumar",
+    "transactionId": 6,
+    "amount": 155.0,
+    "date": "2024-04-30"
+  },
+  {
+    "customerId": 6,
+    "customerName": "Sai",
+    "transactionId": 7,
+    "amount": 604.0,
+    "date": "2025-02-27"
+  },
+  {
+    "customerId": 7,
+    "customerName": "Tanvi",
+    "transactionId": 8,
+    "amount": 123.0,
+    "date": "2025-03-26"
+  },
+  {
+    "customerId": 8,
+    "customerName": "Lakshmi",
+    "transactionId": 9,
+    "amount": 977.0,
+    "date": "2023-11-30"
+  },
+  {
+    "customerId": 9,
+    "customerName": "David",
+    "transactionId": 10,
+    "amount": 140.0,
+    "date": "2021-12-31"
+  },
+  {
+    "customerId": 10,
+    "customerName": "Sudheer",
+    "transactionId": 11,
+    "amount": 200.0,
+    "date": "2022-03-17"
+  },
+  {
+    "customerId": 11,
+    "customerName": "Ravi Kumar",
+    "transactionId": 12,
+    "amount": 650.0,
+    "date": "2025-01-23"
+  },
+  {
+    "customerId": 12,
+    "customerName": "Viji",
+    "transactionId": 13,
+    "amount": 10.0,
+    "date": "2024-12-24"
+  },
+  {
+    "customerId": 13,
+    "customerName": "Arjun Reddy",
+    "transactionId": 14,
+    "amount": 390.0,
+    "date": "2025-02-14"
+  },
+  {
+    "customerId": 14,
+    "customerName": "Bala",
+    "transactionId": 15,
+    "amount": 155.0,
+    "date": "2025-03-21"
+  },
+  {
+    "customerId": 15,
+    "customerName": "Robert",
+    "transactionId": 16,
+    "amount": 280.0,
+    "date": "2025-01-01"
+  },
+  {
+    "customerId": 16,
+    "customerName": "Punith",
+    "transactionId": 17,
+    "amount": 200.0,
+    "date": "2024-11-25"
+  },
+  {
+    "customerId": 17,
+    "customerName": "Bhanu",
+    "transactionId": 18,
+    "amount": 530.0,
+    "date": "2025-02-25"
+  },
+  {
+    "customerId": 18,
+    "customerName": "Vijay",
+    "transactionId": 19,
+    "amount": 370.0,
+    "date": "2024-12-15"
+  },
+  {
+    "customerId": 19,
+    "customerName": "Srikanth",
+    "transactionId": 20,
+    "amount": 190.0,
+    "date": "2025-03-28"
+  },
+  {
+    "customerId": 20,
+    "customerName": "Chandini",
+    "transactionId": 21,
+    "amount": 560.0,
+    "date": "2025-01-31"
+  },
+  {
+    "customerId": 1,
+    "customerName": "Surendra",
+    "transactionId": 22,
+    "amount": 170.0,
+    "date": "2024-11-17"
+  },
+  {
+    "customerId": 2,
+    "customerName": "Rajesh",
+    "transactionId": 23,
+    "amount": 180.0,
+    "date": "2025-02-24"
+  },
+  {
+    "customerId": 3,
+    "customerName": "Adhya",
+    "transactionId": 24,
+    "amount": 210.0,
+    "date": "2025-03-27"
+  }
+]
